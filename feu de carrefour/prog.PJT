@@ -1,0 +1,36 @@
+[PROJECT]
+Target=prog.HEX
+Development_Mode=
+Processor=0x6F84
+ToolSuite=CCS
+
+[Directories]
+Include=C:\Program Files\PICC\devices\;C:\Program Files\PICC\dr
+Library=
+LinkerScript=
+
+[Target Data]
+FileList=prog.c;
+BuildTool=C-COMPILER
+OptionString=+FM
+AdditionalOptionString=
+BuildRequired=1
+
+[prog.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+
+[mru-list]
+1=prog.c
+
+[Windows]
+0=0000 prog.c 0 0 796 451 3 0
+
+[Opened Files]
+1=E:\PIC\Formation Nation_N_2006\DATA_C_Wal_Formation Nationalle\formation\TP\feu de carr\prog.c
+2=
+3=

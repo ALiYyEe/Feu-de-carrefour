@@ -1,0 +1,28 @@
+
+ROM used: 311 (30%)
+          311 (30%) including unused fragments
+
+          2 Average locations per line
+          6 Average locations per statement
+
+RAM used: 3 (4%) at main() level
+          4 (6%) worst case
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+   63    49 100  D:\PROJETS\FORMATIONHIVER\TP\feu de carr\prog.c
+    5     0   0  D:\PROJETS\FORMATIONHIVER\TP\feu de carr\prog.h
+  111     0   0  C:\Program Files\PICC\devices\16F84A.h
+----- -----
+  358    98 Total
+
+Page ROM  %  RAM  Functions:
+---- --- --- ---  ----------
+0     21   7   1  @delay_ms1
+0    286  92   1  main
+
+ Segment   Used  Free
+---------  ----  ----
+00000-00003     4  0
+00004-003FF   307  713
+

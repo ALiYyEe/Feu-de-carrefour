@@ -1,0 +1,29 @@
+00C     @SCRATCH
+00D     @SCRATCH
+00D     _RETURN_
+00F     main.@SCRATCH
+010     @delay_ms1.P1
+
+0004  @delay_ms1
+0019  main
+0019  @cinit
+
+Project Files:
+    D:\PROJETS\FORMATIONHIVER\TP\feu de carr\prog.c
+    D:\PROJETS\FORMATIONHIVER\TP\feu de carr\prog.h
+    C:\Program Files\PICC\devices\16F84A.h
+
+Compiler Settings:
+    Processor:      PIC16F84A
+    Pointer Size:   8
+    Opt Level:      9
+    Short,Int,Long: 1,8,16
+
+Output Files:
+    Errors:      D:\PROJETS\FORMATIONHIVER\TP\feu de carr\prog.err
+    INHX8:       D:\PROJETS\FORMATIONHIVER\TP\feu de carr\prog.HEX
+    Symbols:     D:\PROJETS\FORMATIONHIVER\TP\feu de carr\prog.SYM
+    List:        D:\PROJETS\FORMATIONHIVER\TP\feu de carr\prog.LST
+    Debug/COFF:  D:\PROJETS\FORMATIONHIVER\TP\feu de carr\prog.cof
+    Call Tree:   D:\PROJETS\FORMATIONHIVER\TP\feu de carr\prog.tre
+    Statistics:  D:\PROJETS\FORMATIONHIVER\TP\feu de carr\prog.sta
